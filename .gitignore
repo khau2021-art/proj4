@@ -1,0 +1,12 @@
+models/*.pt
+models/*.pth
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.venv/
+venv/
+*/bin/
+*/lib/
+*/include/
+*/share/
